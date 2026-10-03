@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Ravi King — My Info",
+  "short_name": "Ravi King",
+  "description": "The Legendary Digital Creator Experience",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#050507",
+  "theme_color": "#d7b64a",
+  "icons": [
+    {
+      "src": "./ravi-profile-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./ravi-profile-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
